@@ -19,13 +19,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://cleverest.tech/" target="blank">Cleverest Technologies</a>
+- 🔭 I’m currently working in Samal Software
 
 - 🌱 I’m currently Working on Backend Development (Java, Spring Framework, Python, FastAPI)
 
 - 📫 How to reach me **erjan.ernar2002@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BWuiuOhkZRJCqY-uHdHQZuo6-MS4XyO6/view?usp=drivesdk" target="blank">CV</a>
+- 📄 Know about my experiences <a href="" target="blank">CV</a>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
